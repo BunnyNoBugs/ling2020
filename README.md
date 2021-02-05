@@ -22,8 +22,6 @@
 
 ## План занятий
 
-(может незначительно меняться в процессе курса)
-
 ### 2 модуль
 | Номер  | Преподаватель  | Дата  | Тема  | Материалы |
 |---|---|---|---|---|
@@ -52,30 +50,34 @@
 | 18 | Лена | 13.01.2021 11:10 | Абстрактные классы (модуль abc). Статические методы и методы классов. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1IRJSHnVZd5SlNADiww3upRcLuQpI57Rx/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1CsIgF-YzDKp3BCS83OFx8eWYrHKm3xeu/view?usp=sharing))
 | 19 | Егор | 15.01.2021 09:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [видео](https://drive.google.com/file/d/1YvrP_txDNt9BqfS5NOzVaUkSU-LxRkA9/view?usp=sharing), [код, написанный на паре](https://github.com/esolovev/ling2020/blob/main/lectures/19.py)
 | 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  | [видео](https://drive.google.com/file/d/1G1PIAqGjZd21uAvijCezg25ktB28pt1U/view?usp=sharing)
-| 21 | Лена | 20.01.2021 11:10 | Метаклассы. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/20_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1fffxOpMG4HjY7qwezGjpm_ZuNc8jlYe_/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1qRZJuEu3YFv4Rw4GWkdd42TIeDaTon7J/view?usp=sharing), [часть 3](https://drive.google.com/file/d/14o0-YwmNIMKQcwOpBnj1_3u5Yt1igIYf/view?usp=sharing) - маленькая)
+| 21 | Лена | 20.01.2021 11:10 | Метаклассы. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/20.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/20_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1fffxOpMG4HjY7qwezGjpm_ZuNc8jlYe_/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1qRZJuEu3YFv4Rw4GWkdd42TIeDaTon7J/view?usp=sharing), [часть 3](https://drive.google.com/file/d/14o0-YwmNIMKQcwOpBnj1_3u5Yt1igIYf/view?usp=sharing) - маленькая)
 | 22 | Егор | 22.01 9:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [видео](https://drive.google.com/file/d/1JcV8B7w4OJrMeM_ETQKMjYKPYd8ZR2eh/view?usp=sharing), [код связного списка](https://github.com/esolovev/ling2020/blob/main/lectures/22.py)
 | 23 | Лена | 25.01 11:10 | Метаклассы (продолжение). dataclasses. Введение в тестирование. | [Доделанная тетрадка с предыдущего семинара](https://github.com/esolovev/ling2020/blob/main/lectures/20_done.ipynb), [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/23.ipynb), видео ([часть 1](https://drive.google.com/file/d/1xvt-KLMNWgnxg9sd2N_cWeWsuJNmZddv/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1MvWUrl1v9jogzKPIPjolniIWySw9hk6I/view?usp=sharing))
 | 24 | Егор | 29.01 9:30 | Очередь с приоритетом. Хеш-таблицы. | [Видео](https://drive.google.com/file/d/1_Rmg_F375rLM3a71ICOBW9O0KrNYX6LJ/view?usp=sharing)
-| 25 | Лена | 01.02 11:10	| Юнит-тесты: как правильно писать. |
-| 26 | Егор | 03.02 11:10 | Ассоциативный массив. Хеш-таблицы, словари, множества. |
+| 25 | Лена | 01.02 11:10	| Юнит-тесты: как правильно писать. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1bqk7Fd8UDbK-NviPml-dsF4pU3BeLfo1/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1sYDGLpgLma8Qnz2eTsHZ2k2FTJsPdsLR/view?usp=sharing))
+| 26 | Егор | 03.02 11:10 | Хеш-таблицы: методы разрешения коллизий. Хеширование. Хеширование в Python. | [Видео](https://drive.google.com/file/d/1zG-xCQzP_zW4t10a4-SWanHxPb_u7ORY/view?usp=sharing), [слайды про все рассмотренные структуры данных](https://github.com/esolovev/ling2020/blob/main/lectures/26.pdf)
 | 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. |
-| 28 | Егор | 	| SQL		|
+| 28 | Егор |	06.02 11:10 |	SQL |
+| 29 | Егор |	08.02 11:10 |	SQL |
+| 30 | Егор |	10.02 11:10 |	SQL |
+| 31 | Егор |	12.02 9:30 |	Паралелльное программирование. |
+| 32 | Олег |	13.02 11:10 |	Алгоритмы на графах |
+| 33 | Олег |	15.02 11:10 |	Алгоритмы на графах |
+| 34 | Олег |	17.02 11:10 |	Алгоритмы на графах |
+| 35 | Олег |	19.02 9:30 |	Жадные алгоритмы. Динамическое программирование.|
+| 36 | Олег |	20.02 11:10 |	Жадные алгоритмы. Динамическое программирование.|
+| 37 | Егор |	22.02 11:10 |	Паралелльное программирование. |
+
+
+
 
 
 А ещё:
-* SQL.
-* Многопоточность в Python и вообще.
-* Ассоциативный массив. Хэш-таблицы, словари, множества. Модуль collections в Python.
-* Юнит-тесты: как и зачем писать. Mock. Coverage.
-* Графы. Базовые алгоритмы на графах: поиск в глубину, поиск в ширину; алгоритм Дейкстры; топологическая сортировка; алгоритм Прима (модуль networkx). 
-* Жадные алгоритмы.
 * Основы матричной алгебры. Матричные разложения. Методы оптимизации. Машинное обучение. Градиентный спуск.
 * Обучение на размеченных данных. Признаки в машинном обучении. Первичная обработка данных.
 * Линейные модели. Линейная классификация.
 * Отбор признаков.
 * Метрики качества. Кросс-валидация. Многоклассовая классификация, несбалансированные данные.
-
-
 
 ### 4 модуль
 
