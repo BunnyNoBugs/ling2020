@@ -56,17 +56,21 @@
 | 24 | Егор | 29.01 9:30 | Очередь с приоритетом. Хеш-таблицы. | [Видео](https://drive.google.com/file/d/1_Rmg_F375rLM3a71ICOBW9O0KrNYX6LJ/view?usp=sharing)
 | 25 | Лена | 01.02 11:10	| Юнит-тесты: как правильно писать. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1bqk7Fd8UDbK-NviPml-dsF4pU3BeLfo1/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1sYDGLpgLma8Qnz2eTsHZ2k2FTJsPdsLR/view?usp=sharing))
 | 26 | Егор | 03.02 11:10 | Хеш-таблицы: методы разрешения коллизий. Хеширование. Хеширование в Python. | [Видео](https://drive.google.com/file/d/1zG-xCQzP_zW4t10a4-SWanHxPb_u7ORY/view?usp=sharing), [слайды про все рассмотренные структуры данных](https://github.com/esolovev/ling2020/blob/main/lectures/26.pdf)
-| 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. |
+| 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. | Видео: [часть 1](https://drive.google.com/file/d/16TaQEF9lDXH92Zykz3uo8OKgJW4ey3XR/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1o6PDAQdhnKZRPfZ4tWWFLuR4gQoLLx5V/view?usp=sharing), [доделанная тетрадка с предыдущего семинара](https://github.com/esolovev/ling2020/blob/main/lectures/25_done.ipynb) [тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/27.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/27_done.ipynb)
 | 28 | Егор |	06.02 11:10 |	SQL: синтаксис | [Видео](https://youtu.be/F7mvfEy35FU), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/28.pdf)
-| 29 | Егор |	08.02 11:10 |	SQL |
-| 30 | Егор |	10.02 11:10 |	SQL |
-| 31 | Егор |	12.02 9:30 |	Паралелльное программирование. |
-| 32 | Олег |	13.02 11:10 |	Алгоритмы на графах |
-| 33 | Олег |	15.02 11:10 |	Алгоритмы на графах |
-| 34 | Олег |	17.02 11:10 |	Алгоритмы на графах |
-| 35 | Олег |	19.02 9:30 |	Жадные алгоритмы. Динамическое программирование.|
-| 36 | Олег |	20.02 11:10 |	Жадные алгоритмы. Динамическое программирование.|
-| 37 | Егор |	22.02 11:10 |	Паралелльное программирование. |
+| 29 | Егор |	08.02 11:10 |	SQL: оконные функции, транзакции |[Видео](https://youtu.be/sfEeHApiZwE), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/29.pdf), [задачи](https://github.com/esolovev/ling2020/blob/main/lectures/29_pre.md)
+| 30 | Егор |	10.02 11:10 |	SQL: реляционные базы данных, решаем задачу про сессии | [Видео](https://youtu.be/k6BjhGJx8vw), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/30.pdf), [решение задачи про сессии](https://github.com/esolovev/ling2020/blob/main/lectures/30_sessions.sql), [решение остальных задач](https://github.com/esolovev/ling2020/blob/main/lectures/30_solutions.sql)
+| 31 | Егор |	12.02 9:30 |	Паралелльное программирование. | [Видео](https://youtu.be/8EqDlV9OzA8), [весь код с пары](https://github.com/esolovev/ling2020/blob/main/lectures/31.py)
+| 32 | Олег |	13.02 11:10 |	Алгоритмы на графах 1. Матрица смежности, Класс Node |
+| 33 | Олег |	15.02 11:10 |	Что такое машинное обучение. Виды задач, воспоминание математики. |
+| 34 | Олег |	17.02 11:10 |	Алгоритмы на графах 2. Топологическая сортировка, кодирование алгоритмов на графах. |
+| 35 | Олег |	20.02 11:10 |	признаки в машинном обучении и алгоритм KNN |
+| 36 | Олег |	22.02 11:10 |	Машинное обучение: задача линейной регрессии |
+| 37 | Егор |	24.02 11:10 |	Параллельное программирование |
+| 38 | Лена |	26.02 9:30 |	Как штырить в данные |
+| 39 | Олег |	27.02 11:10 |	Алгоритмы на графах 3. Алгоритмы на графах, продолжение. |
+| 40 | Олег |	01.03 11:10 |	Жадные алгоритмы. Динамическое программирование.|
+| 41 | Олег | 03.03 11:10 | Машинное обучение. метод градиентного спуска |
 
 
 
@@ -98,6 +102,7 @@
 | 01  | Linux, bash  | ?  |  |
 | 02  | Работа с API, скрапинг, typing.  | 13 декабря 23:59  | [02.ipynb](https://github.com/esolovev/ling2020/blob/main/hw/02.ipynb)  |
 | 03  | Сортировки, визуализация деревьев  | 30 января 23:59  | [ссылка](https://github.com/oserikov/py-3k-hw1/blob/master/README.md) |
+| 04  | Классы  | 27 февраля 23:59  | [ссылка](https://contest.yandex.ru/contest/25157/enter) |
 
 ## Оценивание
 
