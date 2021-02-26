@@ -1,5 +1,5 @@
 import unittest
-from unittest.mock import Mock, patch
+from unittest.mock import Mock, patch, call
 from riddler import Riddler
 
 
@@ -22,9 +22,10 @@ class RiddlerTestCase(unittest.TestCase):
 
     @patch('random.choice', Mock(return_value='Маленький, серенький, на слона похож.'))
     def test_riddle_print_question(self):
-        with patch('print', Mock()) as mock_print:
+        with patch('sys.stdout', Mock()) as mock_print:
             self.riddler.riddle()
-            self.assertEqual()
+            mock_print.assert_has_calls(call('Маленький, серенький, на слона похож.'),
+                                        call('У вас 3 попытки!'))
 
 if __name__ == '__main__':
     unittest.main()  # если запускаем в нормальном месте
